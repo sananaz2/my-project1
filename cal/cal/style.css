@@ -1,0 +1,141 @@
+body{
+
+	
+	font-size: 20px;
+	color: #928DAB;
+	
+	
+
+/*background-color:  silver;*/
+}
+body:hover{
+	background-color: silver;
+
+}
+	form{
+		margin: 0 auto;
+		height: 400px;
+		width: 350px;
+		margin-top: 50px;
+		border: 10px solid #232526;
+		background-color: #414345;
+	}
+	input{
+		border-radius: 10px;
+		
+	}
+	input:hover{
+		background-color:#232526;
+	}
+	
+	.a{
+		margin-left: 20%;
+		margin-top: 30px;
+		height: 40px;
+		border: none;
+		width: 200px;
+
+	}
+	.b{
+		width: 50px;
+		height: 30px;margin-left: 20%;
+		margin-top: 30px;
+		;border:none;background-color: #414345;
+		
+	}
+	
+	.c{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;
+		border:none;
+		background-color: #414345;
+	}
+	.d{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;
+		border:none;background-color: #414345;
+	}
+	.e{
+		width: 50px;
+		height: 30px;background-color: #414345;
+		margin-top: 30px;border:none;
+	}
+	.f{
+		width: 50px;
+		height: 30px;margin-left: 20%;
+		margin-top: 30px;border:none;background-color: #414345;
+	}
+	.g{
+		width: 50px;border:none;
+		height: 30px;background-color: #414345;
+		margin-top: 30px;
+	}
+	.h{
+		width: 50px;
+		height: 30px;background-color: #414345;
+		margin-top: 30px;border:none;}
+		.i{
+		width: 50px;
+		height: 30px;
+		background-color: #414345;
+		margin-top: 30px;border:none;}
+		.j{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;
+		margin-left: 20%;background-color: #414345;border:none;
+	}
+	.k{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;background-color: #414345;border:none;}
+		.l{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;background-color: #414345;border:none;}
+		.m{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;background-color:#414345;border:none;}
+		.n{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;
+		margin-left: 20%;background-color: #414345;border:none;
+	}
+	.o{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;background-color: #414345;border:none;}
+		.p{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;background-color: #414345;border:none;}
+		.q{
+		width: 50px;
+		height: 30px;
+		margin-top: 30px;background-color: #414345;
+		border:none;}
+		h1{
+			text-align: center;
+			font-size: 35px;
+			color:#333333;
+
+		} 
+		form:hover{
+			background-color:#333333;
+		}
+	p{
+		
+		color: rgb(12, 10, 11);
+		float: right;
+		margin-top: 70px;
+	}
+p:hover{
+	color: maroon;
+	
+}
+
+
